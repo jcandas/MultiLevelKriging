@@ -54,7 +54,6 @@ Try the following configuration:
 
 3. Compile the dependent packages:
 CXSparse
-Modifiednew3DMKL
 SuiteSparse_config-4.2.1
 
 4. 
